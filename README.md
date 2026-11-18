@@ -2,7 +2,7 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Jack-Jamie.Jack-Jamie&left_color=seagreen&right_color=chocolate&left_text=Views"  />
 </div>
 
-### Healthcare BPO Specialist | Patient Coordinator | Customer Service | Team Lead
+### Healthcare BPO Specialist | Patient Coordinator | Customer Service | Team Lead | Scheduler
 
 
 <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/26d873b2-cb49-4c5a-afe7-2013f9e81383" />
@@ -33,9 +33,10 @@ I combine operational excellence with a deep commitment to customer service,pati
 ## Tools & Technologies
 - EMR/EHR platforms, Oracle Health, Pacware
 - CRM platforms, CMS
-- Amazon WorkSpaces, RingCentral, Vonage, Soft phone                                              
+- Amazon WorkSpace, RingCentral, Vonage, Soft phone, Webex                                             
 - MS Teams, Google Workspace, Zoom, Slack, Notion
-- ChatGPT, Canva, Gemini (AI tools for productivity)
+- ChatGPT, Canva, Gemini
+- Zoho
 
 - <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/63edca07-3440-4de7-a8c1-3a47815941c0" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/63d3d8cd-6412-4cfb-8f1b-0b77861c43c8" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/7980c5a9-d371-40c0-bd12-64eed72fdf8d" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/190e6781-f700-4ed9-a1c6-0a3d79a59bb7" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/8b0af387-6d65-4fb5-812b-7920556e0c91" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/e533b2f1-7c17-4a17-a15e-953eb63ea14f" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/63294c8f-3a2f-4536-89fb-5accc9e8862e" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/470868bb-e1c6-4e78-9948-b154060225aa" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/67127b11-74b0-44ca-bbed-19a7bedfc0e6" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/79235731-6f6d-4323-a17b-f902469714f1" />
 
